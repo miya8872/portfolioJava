@@ -1,8 +1,8 @@
 # portfolioJava
 
 【概要】  
-Minecraft Java Editionのmodになります。  
-とある武器追加modでは右クリックを長押しした際に、画面のズームとクローズ(ADS)が交互に発生してしまい、長押し時の挙動を改善するために作成しました。
+Minecraft Java Editionのmodになります。CurseForgeにて作成を行いました。  
+とある武器追加modでは右クリックを長押しした際に、画面のズームとクローズ(ADS)が交互に発生してしまい、長押し時の挙動の改善が目的となります。
 
 以下は主な流れとなります。  
 1.RightClickItem eventにて右クリックを検知します。  
