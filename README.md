@@ -14,5 +14,5 @@ Minecraft Java Editionのmodになります。CurseForgeにて作成を行いま
  【補足】  
  ・本コードは作成途中となります。プレイヤー視点では所謂切り替え操作になったため、作成を中断いたしました。  
  ・本ページには自身で記述したHoldMod.javaとビルド後のenable_hold-1.0.jarのみ掲載しております。  
- ・boolean型のrobot_controlはrobotクラスによるクリックで動作しない様に実装しておりますが、こちらのコードにてrobotは使用しておりません。
+ ・boolean型のrobot_controlはrobotクラスによるクリックで動作しない様に実装しておりますが、こちらのコードにてrobotは使用しておりません。  
  ・右クリック連打を無効にする対象はアイテム名にて判定しております。
